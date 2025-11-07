@@ -72,13 +72,19 @@ Atualmente, estou me aprofundando nas bases da programação e aprendendo a apli
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Punafds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punafds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
+
+---
+
+### 📘 Sobre Mim
+
+Sou uma pessoa curiosa e gosto de aprender na prática — sempre procuro entender o porquê das coisas funcionarem do jeito que são. Tenho interesse em seguir carreira na área de desenvolvimento de software e, no momento, estou focado em consolidar minhas bases na programação e boas práticas de código.
