@@ -87,7 +87,7 @@ Atualmente, estou me aprofundando nas bases da programação e aprendendo a apli
 
 <br/>
 <br/>
-
+<br/>
 ### 📘 Sobre Mim
 
 Sou uma pessoa curiosa e gosto de aprender na prática — sempre procuro entender o porquê das coisas funcionarem do jeito que são. Tenho interesse em seguir carreira na área de desenvolvimento de software e, no momento, estou focado em consolidar minhas bases na programação e boas práticas de código.
