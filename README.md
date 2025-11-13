@@ -74,7 +74,6 @@ Atualmente, estou me aprofundando nas bases da programação e aprendendo a apli
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Punafds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  />
 </p>
 
 ---
